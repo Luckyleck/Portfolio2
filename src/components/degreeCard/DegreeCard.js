@@ -16,13 +16,9 @@ class DegreeCard extends Component {
                   maxWidth: "100%",
                   maxHeight: "100%",
                   transform:
-                    degree.logo_path === "cambridge_logo.png"
+                    degree.logo_path === "cambridge_uni_logo.png"
                       ? "scale(0.7)"
                       : "scale(0.9)",
-                  // marginTop:
-                  //   degree.logo_path === "cambridge_logo.png"
-                  //     ? '15px'
-                  //     : '0px',
                 }}
                 src={require(`../../assests/images/${degree.logo_path}`)}
                 alt={degree.alt_name}

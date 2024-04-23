@@ -118,10 +118,29 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+        "⚡ Developing mobile applications using React Native, Expo, NestJS and TypeScript",
         "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
+        {
+          skillName: "TypeScript",
+          fontAwesomeClassname: "logos:typescript-icon",
+        },
+        {
+          skillName: "ReactJS & Native",
+          fontAwesomeClassname: "logos:react",
+          style: {
+            color: "#149eca",
+          },
+        },
+        {
+          skillName: "Redux",
+          fontAwesomeClassname: "logos:redux",
+        },
+        {
+          skillName: "Ruby on Rails",
+          fontAwesomeClassname: "skill-icons:rails",
+        },
         {
           skillName: "HTML5",
           fontAwesomeClassname: "simple-icons:html5",
@@ -137,26 +156,12 @@ const skills = {
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "logos:postgresql",
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
+          skillName: "MongoDB",
+          fontAwesomeClassname: "devicon:mongodb-wordmark",
         },
         {
           skillName: "NodeJS",
@@ -166,18 +171,12 @@ const skills = {
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
+          skillName: "AWS",
+          fontAwesomeClassname: "logos:aws",
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
+          skillName: "Git",
+          fontAwesomeClassname: "skill-icons:git",
         },
       ],
     },
@@ -361,11 +360,11 @@ const degrees = {
       website_link: "http://iiitk.ac.in",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "cambridge_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      title: "University of Cambridge",
+      subtitle: "Certificate in English Language Teaching to Adults (CELTA)",
+      logo_path: "cambridge_uni_logo.png",
+      alt_name: "cambridge uni logo",
+      duration: "Sep 2018",
       descriptions: [
         "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
         "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
