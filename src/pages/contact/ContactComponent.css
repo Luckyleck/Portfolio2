@@ -37,6 +37,10 @@
   align-items: center;
   justify-content: center;
 }
+.contact-heading-img-div img {
+  border-radius: 9999px;
+  border: 5px solid black;
+}
 
 .blog-heading-img-div {
   align-items: center;

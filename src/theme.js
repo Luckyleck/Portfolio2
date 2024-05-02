@@ -195,4 +195,74 @@ export const materialTealTheme = {
   splashBg: "#05505E",
 };
 
-export const chosenTheme = purpleTheme;
+export const tropicalSunsetTheme = {
+  body: "white",
+  text: "#3F0E40",
+  expTxtColor: "#000a12",
+  highlight: "#F9A826",
+  dark: "#140031",
+  secondaryText: "#7E2553",
+  imageHighlight: "#FF6B35",
+  compImgHighlight: "#E6E6E6",
+  jacketColor: "#AC3B61",
+  headerColor: "#FA5B3D77",
+  splashBg: "#3F0E40",
+};
+
+export const forestGladeTheme = {
+  body: "white",
+  text: "#254E58",
+  expTxtColor: "#000a12",
+  highlight: "#B4D6C1",
+  dark: "#0E2F34",
+  secondaryText: "#6E999B",
+  imageHighlight: "#82BDAE",
+  compImgHighlight: "white",
+  jacketColor: "#3D7D67",
+  headerColor: "#82BDAE77",
+  splashBg: "#254E58",
+};
+
+export const monochromeTheme = {
+  body: "#FFFFFF",
+  text: "#000000",
+  expTxtColor: "#000a12",
+  highlight: "#E6E6E6",
+  dark: "#000000",
+  secondaryText: "#7F7F7F",
+  imageHighlight: "#BEBEBE",
+  compImgHighlight: "#E6E6E6",
+  jacketColor: "#4F4F4F",
+  headerColor: "#BEBEBE77",
+  splashBg: "#000000",
+};
+
+export const windows98Theme = {
+  body: "#FFFFFF",
+  text: "#008080",
+  expTxtColor: "#000000",
+  highlight: "#C0C0C0",
+  dark: "#000000",
+  secondaryText: "#808080",
+  imageHighlight: "#FFD700",
+  compImgHighlight: "#E6E6E6",
+  jacketColor: "#C0C0C0",
+  headerColor: "#FFFFFF77",
+  splashBg: "#000000",
+};
+
+export const linuxTheme = {
+  body: "#F2F2F2",
+  text: "#333333",
+  expTxtColor: "#000000",
+  highlight: "#0074D9",
+  dark: "#000000",
+  secondaryText: "#666666",
+  imageHighlight: "#B10DC9",
+  compImgHighlight: "#E6E6E6",
+  jacketColor: "#CCCCCC",
+  headerColor: "#33333377",
+  splashBg: "#0074D9",
+};
+
+export const chosenTheme = monochromeTheme;
