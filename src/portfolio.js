@@ -2,14 +2,14 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
-  title: "Alex's Portfolio",
+  title: "Alex Lecky",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A Full-Stack Developer with a unique background in teaching, a can-do attitude, and an eagerness to be a part of an impactful team.",
   og: {
     title: "Alex Lecky Portfolio",
     type: "website",
@@ -23,10 +23,10 @@ const greeting = {
   logo_name: "AlexLecky",
   nickname: "luckyleck",
   subTitle:
-    "A Software Engineer who once taught languages abroad, bringing an innovative and meticulous _____ to code.A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A Full-Stack Developer with a unique background in teaching, a can-do attitude, and an eagerness to be a part of an impactful team.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://docs.google.com/document/d/1Tzui46qHv2WwnP-5j4jgKQNwi7DIJkfxwTpwdsseHp4/edit?usp=sharing",
+  portfolio_repository: "https://github.com/Luckyleck/Portfolio2",
   githubProfile: "https://github.com/luckyleck",
 };
 
@@ -117,9 +117,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using React Native, Expo, NestJS and TypeScript",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website front ends using React-Redux",
+        "⚡ Developing intuitive mobile applications using React Native, Expo, NestJS and TypeScript",
+        "⚡ Creating scalable and efficient backends in Rails and Express",
       ],
       softwareSkills: [
         {
@@ -462,9 +462,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work and Contributions",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked in various areas of coding. Most recently, I finished an internship with a small travel startup. Other endeavors include the construction of SaaS apps and tools for developers. and contributing to open-source projects and communities such as Chance.JS and Beyond All Reason.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -472,36 +472,36 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Machine Learning Engineer",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
+          title: "English Language Teacher",
+          company: "Smile English",
+          company_url: "https://smileenglish.ru/",
+          logo_path: "smile_english.png",
+          duration: "Dec 2018 - March 2022",
+          location: "Moscow, Russia",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "Designed and customized an extensive array of educational materials, comprising textbooks, handouts, audiovisual aids, and online platforms, tailored to diverse age groups, proficiency levels, and learning objectives. Prepared students for official English exams such as the Cambridge IELTS or the American TOEFL. Cultivated a supportive and inclusive classroom atmosphere by advocating mutual respect, fostering active participation, and encouraging collaborative learning. Oversaw teacher schedules and engaged in contract negotiations with schools and businesses.",
           color: "#000000",
         },
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "Freelance Tutor",
+          company: "Fiverr",
+          company_url:
+            "https://www.fiverr.com/luckyleck/tutor-in-english-at-any-level-new-york-native-speaker",
+          logo_path: "fiverr_logo.png",
+          duration: "Apr 2022 - Present",
+          location: "Remote",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
+            "Delivering comprehensive English instruction online across diverse age groups and proficiency levels. Distinguished as a 'Level 2 Seller,' with a focus on accent refinement and conversational fluency. Honed adeptness in remote work methodologies, encompassing precise time management and scheduling proficiency. Garnered a consistent stream of 5-star reviews and fostered enduring client relationships through exceptional service delivery.",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          title: "Full Stack Developer",
+          company: "Travel Hotline",
+          company_url: "https://travelhotline.info/",
+          logo_path: "TH_logo.png",
+          duration: "Feb 2024 - Apr 2024",
+          location: "Remote",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Worked dilligently as an intern, utilizing tools like React Native, TypeScript, Node.js, NestJS, Prisma, PostgreSQL, Expo, Redux, Husky, ESLint, Figma, and Babel. Designed and implemented numerous React Native components and screens, helped architect and develop a robust backend solution with NestJS, and coded pixel-perfect UI/UX translations from Figma files.",
           color: "#9b1578",
         },
         {
