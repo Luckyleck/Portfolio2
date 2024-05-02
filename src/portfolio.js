@@ -465,7 +465,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Contributions",
   description:
-    "I have worked in various areas of coding. Most recently, I finished an internship with a small travel startup. Other endeavors include the construction of SaaS apps and tools for developers. and contributing to open-source projects and communities such as Chance.JS and Beyond All Reason.",
+    "I have worked in various areas of coding. Most recently, I finished an internship with a small travel startup. Other endeavors include the construction of SaaS apps and tools for developers, as well as contributing to open-source projects and communities such as Chance.JS and Beyond All Reason.",
   header_image_path: "experience.svg",
   sections: [
     {
