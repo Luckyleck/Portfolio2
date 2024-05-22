@@ -2,6 +2,27 @@
   "closed": 4,
   "data": [
     {
+      "id": "PR_kwDOGYAX7M5wQxFF",
+      "title": "Added simple sprint functionality",
+      "url": "https://github.com/meliharvey/threescaper/pull/2",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2024-05-22T22:38:23Z",
+      "number": 2,
+      "changedFiles": 2,
+      "additions": 582,
+      "deletions": 562,
+      "baseRepository": {
+        "name": "threescaper",
+        "url": "https://github.com/meliharvey/threescaper",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/17068445?u=b4525da8cd26b5bf402cb93da22eb7896504bf68&v=4",
+          "login": "meliharvey",
+          "url": "https://github.com/meliharvey"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOAKU7vc5b8Olk",
       "title": "Add Music Genre Generator",
       "url": "https://github.com/chancejs/chancejs/pull/592",
@@ -937,6 +958,6 @@
     }
   ],
   "merged": 34,
-  "open": 0,
-  "totalCount": 38
+  "open": 1,
+  "totalCount": 39
 }
