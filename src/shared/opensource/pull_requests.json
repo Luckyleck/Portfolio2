@@ -2,6 +2,181 @@
   "closed": 4,
   "data": [
     {
+      "id": "PR_kwDOMTkxUs516oJz",
+      "title": "auto complete working",
+      "url": "https://github.com/Luckyleck/Stock-Comparison-App/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+        "url": "https://github.com/Luckyleck",
+        "login": "Luckyleck"
+      },
+      "createdAt": "2024-07-19T15:53:41Z",
+      "number": 11,
+      "changedFiles": 4,
+      "additions": 42519,
+      "deletions": 13,
+      "baseRepository": {
+        "name": "Stock-Comparison-App",
+        "url": "https://github.com/Luckyleck/Stock-Comparison-App",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+          "login": "Luckyleck",
+          "url": "https://github.com/Luckyleck"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMTkxUs51zAf4",
+      "title": "Time to style ",
+      "url": "https://github.com/Luckyleck/Stock-Comparison-App/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+        "url": "https://github.com/Luckyleck",
+        "login": "Luckyleck"
+      },
+      "createdAt": "2024-07-18T15:26:04Z",
+      "number": 9,
+      "changedFiles": 5,
+      "additions": 98,
+      "deletions": 34,
+      "baseRepository": {
+        "name": "Stock-Comparison-App",
+        "url": "https://github.com/Luckyleck/Stock-Comparison-App",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+          "login": "Luckyleck",
+          "url": "https://github.com/Luckyleck"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMTkxUs51qcu4",
+      "title": "Styling",
+      "url": "https://github.com/Luckyleck/Stock-Comparison-App/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+        "url": "https://github.com/Luckyleck",
+        "login": "Luckyleck"
+      },
+      "createdAt": "2024-07-17T16:02:38Z",
+      "number": 8,
+      "changedFiles": 5,
+      "additions": 156,
+      "deletions": 37,
+      "baseRepository": {
+        "name": "Stock-Comparison-App",
+        "url": "https://github.com/Luckyleck/Stock-Comparison-App",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+          "login": "Luckyleck",
+          "url": "https://github.com/Luckyleck"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMTkxUs51H1VI",
+      "title": "Render merge",
+      "url": "https://github.com/Luckyleck/Stock-Comparison-App/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+        "url": "https://github.com/Luckyleck",
+        "login": "Luckyleck"
+      },
+      "createdAt": "2024-07-11T17:13:14Z",
+      "number": 3,
+      "changedFiles": 7,
+      "additions": 365,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Stock-Comparison-App",
+        "url": "https://github.com/Luckyleck/Stock-Comparison-App",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+          "login": "Luckyleck",
+          "url": "https://github.com/Luckyleck"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMTkxUs50_DG2",
+      "title": "merge display to main",
+      "url": "https://github.com/Luckyleck/Stock-Comparison-App/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+        "url": "https://github.com/Luckyleck",
+        "login": "Luckyleck"
+      },
+      "createdAt": "2024-07-10T15:29:16Z",
+      "number": 1,
+      "changedFiles": 7,
+      "additions": 197,
+      "deletions": 94,
+      "baseRepository": {
+        "name": "Stock-Comparison-App",
+        "url": "https://github.com/Luckyleck/Stock-Comparison-App",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+          "login": "Luckyleck",
+          "url": "https://github.com/Luckyleck"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMKi7kc5zaSZb",
+      "title": "merging into master",
+      "url": "https://github.com/Luckyleck/odin/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+        "url": "https://github.com/Luckyleck",
+        "login": "Luckyleck"
+      },
+      "createdAt": "2024-06-24T20:34:27Z",
+      "number": 2,
+      "changedFiles": 41,
+      "additions": 2022,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "odin",
+        "url": "https://github.com/Luckyleck/odin",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+          "login": "Luckyleck",
+          "url": "https://github.com/Luckyleck"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMKi7kc5zQLMn",
+      "title": "Main",
+      "url": "https://github.com/Luckyleck/odin/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+        "url": "https://github.com/Luckyleck",
+        "login": "Luckyleck"
+      },
+      "createdAt": "2024-06-22T15:55:06Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 173,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "odin",
+        "url": "https://github.com/Luckyleck/odin",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/118956261?u=fefd6a5b4ecaf790b95e00506e7b09cc0d65d838&v=4",
+          "login": "Luckyleck",
+          "url": "https://github.com/Luckyleck"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOGYAX7M5wQxFF",
       "title": "Added simple sprint functionality",
       "url": "https://github.com/meliharvey/threescaper/pull/2",
@@ -961,7 +1136,7 @@
       }
     }
   ],
-  "merged": 35,
+  "merged": 42,
   "open": 0,
-  "totalCount": 39
+  "totalCount": 46
 }
